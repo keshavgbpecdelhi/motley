@@ -11,6 +11,7 @@
 
 .zoom-in {
   animation-name: zoom-in;
+  animation-duration: 3s;
 }
 
 @keyframes zoom-out {
@@ -30,4 +31,5 @@
 
 .zoom-out {
   animation-name: zoom-out;
+  animation-duration: 3s;
 }
